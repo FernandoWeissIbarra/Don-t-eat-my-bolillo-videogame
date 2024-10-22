@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Fernando\NoTeComasMiBolillo\Bolillo\proj.win32\CMakeFiles\138cf12d425219f99eee5f0aa00ac388\SYNC_RESOURCE-Bolillo.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Fernando\NoTeComasMiBolillo\Bolillo\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Fernando\NoTeComasMiBolillo\Bolillo\proj.win32\CMakeFiles\SYNC_RESOURCE-Bolillo" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{7FDBAF95-FBC0-3D5C-AB5D-92659B6672A6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
